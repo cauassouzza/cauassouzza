@@ -17,3 +17,15 @@ Projeto acadêmico em equipe voltado à automação da irrigação familiar.
 ## Tecnologias que pratico
 
 `C` · `SQL/MySQL` · `HTML e CSS` · `JavaScript` · `Git e GitHub`
+
+
+## Foguete de pixels
+
+![Foguete pixelado acendendo uma trilha de quadradinhos](./foguete.svg)
+
+<details>
+<summary>Como a animação funciona?</summary>
+
+O foguete cruza uma grade inspirada no calendário do GitHub. O SVG move o foguete e revela a trilha de luz no mesmo ritmo.
+
+</details>
