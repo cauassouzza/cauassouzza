@@ -100,4 +100,4 @@ Projeto acadêmico em equipe voltado à automação da irrigação familiar.
 
 
 
-![Bahia marca contra o Vitória em um campo pixelado](./campo.svg?v=bavi)
+![Bahia marca contra o Vitória em um campo pixelado](https://raw.githubusercontent.com/cauassouzza/cauassouzza/6e213985ee6d77fc4b2d1a0c57fe013cd7c4026f/campo.svg)
